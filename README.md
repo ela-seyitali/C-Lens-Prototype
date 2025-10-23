@@ -47,7 +47,3 @@ Yüz tanıma teknolojisi kullanarak güvenli kimlik doğrulama sağlayan Flutter
 - Yüz verileri XOR şifreleme ile korunur
 - Aynı yüz verisiyle birden fazla kayıt engellenir
 - Güvenli veritabanı işlemleri
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
